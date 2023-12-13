@@ -162,7 +162,7 @@ footer {
     padding-top: 100px;
 }
 
-@counter-style repeating-emoji {
+/* @counter-style repeating-emoji {
     system: cyclic;
     symbols: "\1F916" "\1F50E" "\1F4AA\1F3FD";
     suffix: " ";
@@ -170,4 +170,4 @@ footer {
 
 .repeating-counter-rule {
     list-style-type: repeating-emoji;
-}
+} */
